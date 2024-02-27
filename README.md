@@ -1,1 +1,5 @@
-# insurance_cost_prediction
+# Insurance cost prediction
+
+# virtual environment creation
+ python -m venv venv
+ 
